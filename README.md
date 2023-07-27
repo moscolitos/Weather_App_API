@@ -16,7 +16,7 @@ API_KEY = "YOUR_API_KEY"
 ## Usage
 To use the script, run it using the Python interpreter. The script will prompt you to input the name of a city. The script will then fetch and display the current weather for that city.
 
-python weather_fetcher.py
+python weather_app_v1.py
 
 When prompted, enter the name of the city you want to check the weather for:
 
